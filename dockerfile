@@ -1,0 +1,1 @@
+FROM ghcr.io/openlistteam/openlist-git:beta-aio
