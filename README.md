@@ -34,3 +34,6 @@ services:
       - UMASK=022
     restart: unless-stopped
 ```
+---
+
+- [官网文档](https://docs.openlist.team/zh/guide/install/docker.html)
